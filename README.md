@@ -2,7 +2,6 @@
 
 A Python tool for detecting file types using magic numbers (file signatures). Useful for security analysis, digital forensics, and verifying file authenticity.
 
-## Features
 
 ## Features
 
