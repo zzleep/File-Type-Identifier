@@ -1,0 +1,307 @@
+{
+  "version": "1.0",
+  "total_signatures": 43,
+  "signatures": [
+    {
+      "signature": "25504446",
+      "extension": "pdf",
+      "description": "Portable Document Format",
+      "offset": 0,
+      "mime_type": "application/pdf"
+    },
+    {
+      "signature": "D0CF11E0A1B11AE1",
+      "extension": "doc",
+      "description": "Microsoft Word Document (Old)",
+      "offset": 0,
+      "mime_type": "application/msword"
+    },
+    {
+      "signature": "504B0304",
+      "extension": "docx",
+      "description": "Microsoft Word Document (Modern)",
+      "offset": 0,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    {
+      "signature": "504B0304",
+      "extension": "xlsx",
+      "description": "Microsoft Excel Spreadsheet",
+      "offset": 0,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "signature": "504B0304",
+      "extension": "pptx",
+      "description": "Microsoft PowerPoint Presentation",
+      "offset": 0,
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+    },
+    {
+      "signature": "FFD8FF",
+      "extension": "jpg",
+      "description": "JPEG Image",
+      "offset": 0,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "signature": "FFD8FF",
+      "extension": "jpeg",
+      "description": "JPEG Image",
+      "offset": 0,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "signature": "89504E470D0A1A0A",
+      "extension": "png",
+      "description": "PNG Image",
+      "offset": 0,
+      "mime_type": "image/png"
+    },
+    {
+      "signature": "474946383761",
+      "extension": "gif",
+      "description": "GIF Image (87a)",
+      "offset": 0,
+      "mime_type": "image/gif"
+    },
+    {
+      "signature": "474946383961",
+      "extension": "gif",
+      "description": "GIF Image (89a)",
+      "offset": 0,
+      "mime_type": "image/gif"
+    },
+    {
+      "signature": "424D",
+      "extension": "bmp",
+      "description": "Bitmap Image",
+      "offset": 0,
+      "mime_type": "image/bmp"
+    },
+    {
+      "signature": "49492A00",
+      "extension": "tiff",
+      "description": "TIFF Image (Little Endian)",
+      "offset": 0,
+      "mime_type": "image/tiff"
+    },
+    {
+      "signature": "4D4D002A",
+      "extension": "tiff",
+      "description": "TIFF Image (Big Endian)",
+      "offset": 0,
+      "mime_type": "image/tiff"
+    },
+    {
+      "signature": "52494646",
+      "extension": "webp",
+      "description": "WebP Image",
+      "offset": 0,
+      "mime_type": "image/webp"
+    },
+    {
+      "signature": "504B0304",
+      "extension": "zip",
+      "description": "ZIP Archive",
+      "offset": 0,
+      "mime_type": "application/zip"
+    },
+    {
+      "signature": "504B0506",
+      "extension": "zip",
+      "description": "ZIP Archive (Empty)",
+      "offset": 0,
+      "mime_type": "application/zip"
+    },
+    {
+      "signature": "504B0708",
+      "extension": "zip",
+      "description": "ZIP Archive (Spanned)",
+      "offset": 0,
+      "mime_type": "application/zip"
+    },
+    {
+      "signature": "526172211A07",
+      "extension": "rar",
+      "description": "RAR Archive (v1.5+)",
+      "offset": 0,
+      "mime_type": "application/x-rar-compressed"
+    },
+    {
+      "signature": "526172211A0700",
+      "extension": "rar",
+      "description": "RAR Archive (v5.0+)",
+      "offset": 0,
+      "mime_type": "application/x-rar-compressed"
+    },
+    {
+      "signature": "1F8B",
+      "extension": "gz",
+      "description": "GZIP Archive",
+      "offset": 0,
+      "mime_type": "application/gzip"
+    },
+    {
+      "signature": "377ABCAF271C",
+      "extension": "7z",
+      "description": "7-Zip Archive",
+      "offset": 0,
+      "mime_type": "application/x-7z-compressed"
+    },
+    {
+      "signature": "425A68",
+      "extension": "bz2",
+      "description": "BZIP2 Archive",
+      "offset": 0,
+      "mime_type": "application/x-bzip2"
+    },
+    {
+      "signature": "4D5A",
+      "extension": "exe",
+      "description": "Windows Executable",
+      "offset": 0,
+      "mime_type": "application/x-msdownload"
+    },
+    {
+      "signature": "7F454C46",
+      "extension": "elf",
+      "description": "Linux Executable",
+      "offset": 0,
+      "mime_type": "application/x-executable"
+    },
+    {
+      "signature": "CAFEBABE",
+      "extension": "class",
+      "description": "Java Class File",
+      "offset": 0,
+      "mime_type": "application/java-vm"
+    },
+    {
+      "signature": "FEEDFACE",
+      "extension": "macho",
+      "description": "macOS Executable (32-bit)",
+      "offset": 0,
+      "mime_type": "application/x-mach-binary"
+    },
+    {
+      "signature": "FEEDFACF",
+      "extension": "macho",
+      "description": "macOS Executable (64-bit)",
+      "offset": 0,
+      "mime_type": "application/x-mach-binary"
+    },
+    {
+      "signature": "494433",
+      "extension": "mp3",
+      "description": "MP3 Audio",
+      "offset": 0,
+      "mime_type": "audio/mpeg"
+    },
+    {
+      "signature": "FFFB",
+      "extension": "mp3",
+      "description": "MP3 Audio (No ID3)",
+      "offset": 0,
+      "mime_type": "audio/mpeg"
+    },
+    {
+      "signature": "52494646",
+      "extension": "wav",
+      "description": "WAV Audio",
+      "offset": 0,
+      "mime_type": "audio/wav"
+    },
+    {
+      "signature": "664C6143",
+      "extension": "flac",
+      "description": "FLAC Audio",
+      "offset": 0,
+      "mime_type": "audio/flac"
+    },
+    {
+      "signature": "4F676753",
+      "extension": "ogg",
+      "description": "OGG Audio",
+      "offset": 0,
+      "mime_type": "audio/ogg"
+    },
+    {
+      "signature": "00000018667479706D703432",
+      "extension": "mp4",
+      "description": "MP4 Video",
+      "offset": 4,
+      "mime_type": "video/mp4"
+    },
+    {
+      "signature": "000000206674797069736F6D",
+      "extension": "mp4",
+      "description": "MP4 Video (isom)",
+      "offset": 4,
+      "mime_type": "video/mp4"
+    },
+    {
+      "signature": "52494646",
+      "extension": "avi",
+      "description": "AVI Video",
+      "offset": 0,
+      "mime_type": "video/x-msvideo"
+    },
+    {
+      "signature": "1A45DFA3",
+      "extension": "mkv",
+      "description": "Matroska Video",
+      "offset": 0,
+      "mime_type": "video/x-matroska"
+    },
+    {
+      "signature": "464C5601",
+      "extension": "flv",
+      "description": "Flash Video",
+      "offset": 0,
+      "mime_type": "video/x-flv"
+    },
+    {
+      "signature": "53514C69746520666F726D6174203300",
+      "extension": "sqlite",
+      "description": "SQLite Database",
+      "offset": 0,
+      "mime_type": "application/x-sqlite3"
+    },
+    {
+      "signature": "3C21444F43545950452068746D6C",
+      "extension": "html",
+      "description": "HTML Document",
+      "offset": 0,
+      "mime_type": "text/html"
+    },
+    {
+      "signature": "3C68746D6C",
+      "extension": "html",
+      "description": "HTML Document",
+      "offset": 0,
+      "mime_type": "text/html"
+    },
+    {
+      "signature": "3C3F786D6C",
+      "extension": "xml",
+      "description": "XML Document",
+      "offset": 0,
+      "mime_type": "text/xml"
+    },
+    {
+      "signature": "7B",
+      "extension": "json",
+      "description": "JSON Document",
+      "offset": 0,
+      "mime_type": "application/json"
+    },
+    {
+      "signature": "5B",
+      "extension": "json",
+      "description": "JSON Array",
+      "offset": 0,
+      "mime_type": "application/json"
+    }
+  ]
+}
